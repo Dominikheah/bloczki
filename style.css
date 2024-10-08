@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Dots:wght@400..700&display=swap');
+
+
+
+
+
+.divnull{
+height: 1000px;
+width: 1400px;
+margin-right: auto;
+margin-left: auto;
+
+}
+.div-1{
+width: 25%; 
+height: 25%;
+background-color: aqua;
+float: left;
+
+}
+.div-2{
+    width: 25%; 
+height: 25%;
+    background-color: rgb(126, 116, 212);
+    float: left;
+    
+    }
+    .div-3{
+        width: 25%; 
+        height: 25%;
+        background-color: rgb(22, 160, 160);
+        float: left;
+        }
+        .div-4{
+            width: 25%; 
+            height: 25%;
+            background-color: rgb(0, 255, 98);
+            float: left;
+            
+            }
+            .div-5{
+                width: 25%; 
+                height: 25%;
+                background-color: rgb(208, 255, 0);
+                float: left;
+                clear: both;
+                
+                }
+                .div-6{
+                    width: 25%; 
+                    height: 25%;
+                    background-color: rgb(0, 17, 255);
+                    float: left;
+                    
+                    }
+                    .div-7{
+                        width: 25%; 
+                        height: 25%;
+                        background-color: rgb(255, 0, 106);
+                        float: left;
+                        
+                        }
+                        .div-8{
+                            width: 25%; 
+                            height: 25%;
+                            background-color: rgb(255, 187, 0);
+                            float: left;
+                            
+                            }
+                            .div-9{
+                                width: 25%; 
+                                height: 25%;
+                                background-color: rgb(0, 255, 200);
+                                float: left;
+                                clear:both;
+                                
+                                }
+                                .div-10{
+                                    width: 25%; 
+                                    height: 25%;
+                                    background-color: rgb(94, 255, 0);
+                                    float: left;
+                                    
+                                    }
+                                    .div-11{
+                                        width: 25%; 
+                                        height: 25%;;
+                                        background-color: rgb(229, 255, 0);
+                                        float: left;
+                                    
+                                        }
+                                        .div-12{
+                                            width: 25%; 
+                                            height: 25%;
+                                            background-color: rgb(255, 0, 106);
+                                            float: left;
+                                            
+                                            }
+                                            .div-13{
+                                                width: 25%; 
+                                                height: 25%;
+                                                background-color: rgb(212, 0, 255);
+                                                float: left;
+                                                clear:both;
+                                                }
+                                                .div-14{
+                                                    width: 25%; 
+                                                    height: 25%;
+                                                    background-color: rgb(140, 0, 255);
+                                                    float: left;
+                                                    
+                                                    }
+                                                    .div-15{
+                                                        width: 25%; 
+                                                        height: 25%;
+                                                        background-color: royalblue;
+                                                        float: left;
+                                                        
+                                                        }
+                                                        .div-16{
+                                                            width: 25%; 
+                                                            height: 25%;
+                                                            background-color: rosybrown;
+                                                            float: left;
+                                                            
+                                                            }
